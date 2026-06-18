@@ -11,7 +11,7 @@ A simple Python project that generates UPI QR Codes that can be scanned by any U
 
 ## Demo QR Code
 
-![Generated QR Code](paytm_qr.png)
+![Generated QR Code] (paytm_qr.png)
 
 ## Complete Flow
 
