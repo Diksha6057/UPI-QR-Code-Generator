@@ -9,8 +9,13 @@ A simple Python project that generates UPI QR Codes that can be scanned by any U
 - Save QR codes as PNG images
 - Simple and beginner-friendly implementation
 
+## Demo QR Code
+
+![Generated QR Code](google_pay_qr.png)
+
 ## Complete Flow
 
+```text
 User enters UPI ID
         ↓
 Create UPI payment URL
@@ -20,6 +25,7 @@ Generate QR code
 Save QR image
         ↓
 Display QR image
+```
 
 ## Technologies Used
 
@@ -29,4 +35,4 @@ Display QR image
 
 ## Author
 
-Diksha Sharma
+**Diksha Sharma**
